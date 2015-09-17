@@ -24,9 +24,9 @@ My exposure to BIDS led to my meeting Dav Clark and Anthony Suen of the BIDS col
 
 The carpool project is now a year old. It has already involved a lot of math, testing existing services, and prototyping, all for the purpose of translating our conception of our mobility into a business model, a mobile product, and now a GTM strategy.
 
-## Data Project
+## Our Data Project
 
-To come...
+Files to come...
 
 ## contact
 
