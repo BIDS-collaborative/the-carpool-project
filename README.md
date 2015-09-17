@@ -18,7 +18,7 @@ Given how much importance we all have placed on sustainability for many years no
 
 ## The Value of the BIDS Collaborative
 
-My exposure to BIDS led to my meeting Dav Clark and Anthony Suen of the BIDS collaborative, to my auditing Dav’s Hacking Measurement class at the I-School, and to this data project. I'm grateful for their interest and valuable support. This data project is at the heart of our go-to-market or GTM strategy. This makes it an important part of the carpool project – a to-be-launched for-profit venture in which the profits will be performance-based and democratically shared.
+My exposure to BIDS led to my meeting Dav Clark and Anthony Suen of the BIDS collaborative, to my auditing Dav’s Hacking Measurement class at the I-School, and to our data project. I'm grateful for their interest and valuable support. Our data project is at the heart of our go-to-market or GTM strategy. This makes it an important part of the carpool project – a to-be-launched for-profit venture in which the profits will be performance-based and democratically shared.
 
 ## To Conclude
 
@@ -27,6 +27,7 @@ The carpool project is now a year old. It has already involved a lot of math, te
 ## Our Data Project
 
 1. Imagine (https://cloud.githubusercontent.com/assets/14024852/9925761/0bfffcb8-5cc4-11e5-8ceb-6f5a6fa249dd.png)
+![2 the problem - 09 14 15](https://cloud.githubusercontent.com/assets/14024852/9926099/55fc9cf6-5cc7-11e5-8cf7-df6df4685db1.png)
 
 ## Contact
 
