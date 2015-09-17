@@ -22,7 +22,7 @@ My exposure to BIDS led to my meeting Dav Clark and Anthony Suen of the BIDS col
 
 ## To Conclude
 
-To conclude this background, the carpool project is now one year old. It has already involved a lot of math, testing existing services, and prototyping, all for the purpose of translating our conception of our mobility into a business model, a mobile product, and now a GTM strategy.
+The carpool project is now a year old. It has already involved a lot of math, testing existing services, and prototyping, all for the purpose of translating our conception of our mobility into a business model, a mobile product, and now a GTM strategy.
 
 ## Data Project
 
@@ -30,4 +30,4 @@ To come...
 
 ## contact
 
-Vivek Hutheesing, http://vivekhutheesing.com/ or vivek-at-rBlock-dot-com
+Vivek Hutheesing: http://vivekhutheesing.com/ or vivek-at-rBlock-dot-com
