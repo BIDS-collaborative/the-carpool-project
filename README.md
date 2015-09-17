@@ -24,6 +24,10 @@ My exposure to BIDS led to my meeting Dav Clark and Anthony Suen of the BIDS col
 
 The carpool project is now a year old. It has already involved a lot of math, testing existing services, and prototyping, all for the purpose of translating a conception of our mobility into a business model, a mobile product, and now a go-to-market strategy.  Our data project is at the heart of our GTM strategy. This makes it a very important part of the carpool project – a to-be-launched for-profit venture in which the profits will be performance-based and democratically shared.
 
+## Contact
+
+Vivek Hutheesing: http://vivekhutheesing.com/ or vivek-at-rBlock-dot-com
+
 ## Our Data Project
 ![slide1](https://cloud.githubusercontent.com/assets/14024852/9926722/edc68dda-5ccc-11e5-8a9e-de19601268c9.PNG)
 ![slide2](https://cloud.githubusercontent.com/assets/14024852/9926723/ede5e05e-5ccc-11e5-8834-31d340b79574.PNG)
@@ -45,6 +49,4 @@ The carpool project is now a year old. It has already involved a lot of math, te
 ![slide18](https://cloud.githubusercontent.com/assets/14024852/9926739/ee345a04-5ccc-11e5-9e1c-ce99a9a1c3f0.PNG)
 ![slide19](https://cloud.githubusercontent.com/assets/14024852/9926740/ee34bfb2-5ccc-11e5-90a3-4c44b25ff8ed.PNG)
 
-## Contact
 
-Vivek Hutheesing: http://vivekhutheesing.com/ or vivek-at-rBlock-dot-com
