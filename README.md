@@ -10,7 +10,7 @@ I want to first express my thanks to several folks. I’m grateful to Oliver Zah
 
 ## Driving Down Cost
 
-Just imagine being able to go anywhere anytime for $0.25 per mile. This is one-tenth the cost of a taxi, one-fourth the cost of owning a car, and is less than the average cost of public transportation. As such, if carpooling becomes culturally significant, it will not only dramatically reduce the cost of our mobility, but catalyze it further, and do so in a safe and sustainable manner. Success promises to both reduce inequality in America and be a force multiplier on it's economic growth.
+Just imagine being able to go anywhere anytime for $0.25 per mile, and not have to park. This is one-tenth the cost of a taxi, one-fourth the cost of owning a car, and is less than the average cost of public transportation. As such, if carpooling becomes culturally significant, it will not only dramatically reduce the cost of our mobility, but catalyze it further, and do so in a safe and sustainable manner. Success promises to both reduce inequality in America and be a force multiplier on it's economic growth.
 
 ## Time For Something New
 
