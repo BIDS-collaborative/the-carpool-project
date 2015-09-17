@@ -20,9 +20,9 @@ Given how much importance we all have placed on sustainability for many years no
 
 My exposure to BIDS led to my meeting Dav Clark and Anthony Suen of the BIDS collaborative, to my auditing Dav’s Hacking Measurement class at the I-School, and to our data project. I'm grateful for their interest and valuable support.
 
-## To Conclude
+## Looking Ahead
 
-The carpool project is now a year old. It has already involved a lot of math, testing existing services, and prototyping, all for the purpose of translating a conception of our mobility into a business model, a mobile product, and now a go-to-market strategy.  Our data project is at the heart of our GTM strategy. This makes it a very important part of the carpool project – a to-be-launched for-profit venture in which the profits will be performance-based and democratically shared.
+The carpool project is now a year old. It has already involved a lot of math, testing existing services, and prototyping, all for the purpose of translating a conception of our mobility into a business model, a mobile product, and now a go-to-market strategy.  The data project below is at the heart of our GTM strategy. As such it's an important part of the carpool project, a soon-to-be-launched for-profit venture in which the profits will be performance-based and democratically-shared.
 
 ## Contact
 
