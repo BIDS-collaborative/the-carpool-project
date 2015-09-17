@@ -26,17 +26,6 @@ The carpool project is now a year old. It has already involved a lot of math, te
 
 ## Our Data Project
 
-![1 imagine - 09 14 15](https://cloud.githubusercontent.com/assets/14024852/9925761/0bfffcb8-5cc4-11e5-8ceb-6f5a6fa249dd.png)
-
-![2 the problem - 09 14 15](https://cloud.githubusercontent.com/assets/14024852/9926099/55fc9cf6-5cc7-11e5-8cf7-df6df4685db1.png)
-
-![slide1](https://cloud.githubusercontent.com/assets/14024852/9926457/7a912890-5cca-11e5-95c6-7817a1d6d50b.PNG)
-![slide2](https://cloud.githubusercontent.com/assets/14024852/9926461/7a9d5340-5cca-11e5-9ab6-44e1fc4736bb.PNG)
-![slide3](https://cloud.githubusercontent.com/assets/14024852/9926458/7a9a7d28-5cca-11e5-8be6-d1c2691e9e98.PNG)
-![slide4](https://cloud.githubusercontent.com/assets/14024852/9926460/7a9d4bd4-5cca-11e5-833f-3a4aa01db7fc.PNG)
-![slide5](https://cloud.githubusercontent.com/assets/14024852/9926459/7a9d1bf0-5cca-11e5-8306-3dcce1ebeefc.PNG)
-![slide6](https://cloud.githubusercontent.com/assets/14024852/9926462/7a9e1ba4-5cca-11e5-9e25-d6048315c1b4.PNG)
-![slide7](https://cloud.githubusercontent.com/assets/14024852/9926463/7aa37b94-5cca-11e5-9e40-6e5fed0c7e59.PNG)
 
 
 ## Contact
