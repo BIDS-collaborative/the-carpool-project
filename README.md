@@ -47,5 +47,4 @@ Vivek Hutheesing: http://vivekhutheesing.com/ or vivek-at-rBlock-dot-com
 ![slide16](https://cloud.githubusercontent.com/assets/14024852/9941019/a6a901de-5d27-11e5-9977-4e8570e80761.PNG)
 ![slide17](https://cloud.githubusercontent.com/assets/14024852/9941020/a6a9be80-5d27-11e5-8428-79a06d73910b.PNG)
 ![slide18](https://cloud.githubusercontent.com/assets/14024852/9941022/a6b56ac8-5d27-11e5-9f26-33eb4321ffa7.PNG)
-![slide19](https://cloud.githubusercontent.com/assets/14024852/9941023/a6b89f0e-5d27-11e5-93c4-1cd09a364242.PNG)
 
