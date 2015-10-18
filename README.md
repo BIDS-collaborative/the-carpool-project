@@ -30,7 +30,7 @@ Vivek Hutheesing: http://vivekhutheesing.com/ or vivek-at-rBlock-dot-com
 
 ## Our Data Project
 
-Our Team's Google Drive: https://drive.google.com/drive/folders/0B-GKYBWlBTNBNHlNNXF5dndRSlE
+Our Google Drive: https://drive.google.com/drive/folders/0B-GKYBWlBTNBNHlNNXF5dndRSlE
 
 ![slide1](https://cloud.githubusercontent.com/assets/14024852/10444834/82f049c6-711f-11e5-84a4-3ab2a9f787be.PNG)
 ![slide2](https://cloud.githubusercontent.com/assets/14024852/10444851/8337d71e-711f-11e5-8fac-576dcbb3e329.PNG)
