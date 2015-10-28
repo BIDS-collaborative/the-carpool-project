@@ -22,7 +22,7 @@ My exposure to BIDS led to my meeting Dav Clark and Anthony Suen of the BIDS col
 
 ## Looking Ahead
 
-The carpool project is now a year old. It has already involved a lot of math, testing existing services, and prototyping, all for the purpose of translating a conception of our mobility into a business model, a mobile product, and now a go-to-market strategy.  The data project below is at the heart of our GTM strategy. As such it's an important part of the carpool project, a soon-to-be-launched for-profit venture in which the profits will be performance-based and democratically-shared.
+The carpool project is now a year old. It has already involved a lot of math, testing existing ridesharing services, and prototyping, all for the purpose of translating a conception of our mobility into a business model, a mobile product, and now a go-to-market strategy.  The data project below is at the heart of our GTM strategy. As such, it's an important part of the carpool project, a soon-to-be-launched venture in which the profits will be performance-based and democratically-shared.
 
 ## Contact
 
