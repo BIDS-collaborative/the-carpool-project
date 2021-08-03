@@ -26,6 +26,6 @@ The carpool project is now a year old. It has already involved a lot of math, te
 
 ## Contact
 
-Vivek Hutheesing: http://vivekhutheesing.com/ or vivek-at-rBlock-dot-com
+Vivek Hutheesing: http://vivekhutheesing.com/
 
 
